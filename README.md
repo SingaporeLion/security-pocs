@@ -11,3 +11,9 @@ Public notes on how to structure reproducible proof-of-concept work for protocol
 
 ## Note
 This repository is intentionally focused on public methodology and structure rather than private contest material.
+
+## Start here
+
+If you only read one file in this repository, start with:
+
+- [what-makes-a-good-poc.md](./what-makes-a-good-poc.md)
