@@ -1,12 +1,13 @@
-# Security-pocs
+# Security PoCs
 
-Minimal reproducible proof-of-concept tests for protocol and smart contract issues.
+Public notes on how to structure reproducible proof-of-concept work for protocol and smart contract issues.
 
-## Purpose
-This repository contains small, focused reproductions designed to validate concrete technical findings.
+## Focus
+- reproduction design
+- expected vs observed behavior
+- minimal failure paths
+- impact validation
+- PoC writing discipline
 
-## Style
-- Minimal setup
-- Direct reproduction path
-- Clear expected vs observed result
-- Practical, testable impact
+## Note
+This repository is intentionally focused on public methodology and structure rather than private contest material.
